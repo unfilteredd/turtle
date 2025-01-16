@@ -5,6 +5,7 @@ from cars import CarManage
 from scoreboard import Score
 
 
+
 screen = t.Screen()
 screen.setup(width=600,height=600)
 screen.bgcolor("white")
