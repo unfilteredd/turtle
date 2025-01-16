@@ -4,6 +4,7 @@ MOVE_DISTANCE = 10
 FINISH_LINE_Y = 280
 
 
+
 class Turtles(t.Turtle):
     def __init__(self):
         super().__init__()
