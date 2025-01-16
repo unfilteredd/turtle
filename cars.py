@@ -5,6 +5,7 @@ STARTING_DISTANCE = 5
 MOVE_INCREMENT = 2
 
 
+
 class CarManage():
     def __init__(self):
         self.all_cars =[]
